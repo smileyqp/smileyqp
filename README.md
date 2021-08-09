@@ -1,5 +1,11 @@
 ### Hi there,I'm smileyqp 👋
 一只无人驾驶公司的前端前端小朋友&&致力成为优秀的前端喵，csdn:「smileyqp」
+
+- 🔭 I’m currently working on something interesting
+- 🌱 I’m currently learning what I like
+- 💬 Ask me about anything,I am happy to help.If it's about discussion of auto driving，that's better.
+- 📫 How to reach me: smileyqp@gmail.com
+
 |  CSDN   | github主页  | 前端基础 | 掘金 |
 |  ----  | ----- | --- | --- |
 | [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
@@ -24,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: smileyqp@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
