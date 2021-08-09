@@ -13,7 +13,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
-![React Native](https://img.shields.io/badge/-reactnative-333333?style=flat&logo=reactnative&logoColor=FCC624)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=ReactNative&logoColor=FCC624)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=FF4800)
 ![Uniapp](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=Uniapp&logoColor=FF4800)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
