@@ -14,6 +14,7 @@
 
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.CzDK7cTTWf2VNuuPvsqcUAHaEj?pid=ImgDet&rs=1"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
