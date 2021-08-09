@@ -8,7 +8,7 @@
 - 📫  How to reach me: smileyqp@gmail.com
 
 |  CSDN   | github主页  | 前端基础 | 掘金 |
-|  ----  | ----- | --- | --- |
+|  ----  | ---- | --- | --- |
 | [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
 
 ### 🛠 技术栈 | Tech Stack
