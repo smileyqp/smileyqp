@@ -12,9 +12,9 @@
 | [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; ![React](https://img.shields.io/badge/-Java-333333?style=flat&logo=React&logoColor=007396)
-![React Native](https://img.shields.io/badge/-Linux-333333?style=flat&logo=ReactNative&logoColor=FCC624)
-![Electron](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=electron&logoColor=FF4800)
+- 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=ReactNative&logoColor=FCC624)
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=FF4800)
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
