@@ -16,7 +16,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://th.bing.com/th/id/OIP.j5xeA1fJY7KKioU0J8JlmAHaEK?pid=ImgDet&rs=1"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
-  <br/>
   <code><img width="10%" src="https://static.sitestack.cn/projects/uniapp-appdocs/uploads/202005/160d8b806f957b51.png/cover"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
