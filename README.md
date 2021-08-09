@@ -1,8 +1,20 @@
 ### Hi there,I'm smileyqp 👋
 一只无人驾驶公司的前端前端小朋友&&致力成为优秀的前端喵，csdn:「smileyqp」
 |  CSDN   | github主页  | 前端基础 | 掘金 |
-|  ----  | ----  | --- | --- |
-| [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://github.com/smileyqp/frontend_book)| [点我直达](https://juejin.cn/user/993614243312840)|
+|  ----  | ----- | --- | --- |
+| [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
+
+### Languages and Tools:
+
+<p>  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
+  <br />
+</p>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
