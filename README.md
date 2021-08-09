@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning what I like
-- 💬 Ask me about anything,I am happy to help.If it's about discussion of auto driving，that's better.
+- 💬 Ask me about anything,I am happy to help.If it's about auto driving，that's better.
 - 📫 How to reach me: smileyqp@gmail.com
 
 |  CSDN   | github主页  | 前端基础 | 掘金 |
