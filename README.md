@@ -12,7 +12,8 @@
 | [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
+- 💻 &#160; 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=ReactNative&logoColor=FCC624)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=FF4800)
 ![Uniapp](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=Uniapp&logoColor=FF4800)
@@ -22,8 +23,10 @@
 ![AntdDesign](https://img.shields.io/badge/-AntdDesign-333333?style=flat&logo=AntdDesign)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 🔧 &#160;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
