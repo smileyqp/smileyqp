@@ -1,6 +1,6 @@
 ### Hi,I'm smileyqp 👋
 一只无人驾驶公司的前端小朋友&&致力成为优秀的前端喵，csdn:「smileyqp」
-<img align="right" alt="GIF" src="https://github.com/smileyqp/smileyqp/blob/main/4.gif" />
+<img align="right" alt="GIF" src="https://github.com/smileyqp/smileyqp/blob/main/5.gif" />
 
 - 🔭  I’m currently working on something interesting
 - 🌱  I’m currently learning what I like
