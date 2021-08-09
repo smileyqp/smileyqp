@@ -8,7 +8,7 @@
 
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.VNvegBaO7fomYI-TY6do3wHaDa?pid=ImgDet&rs=1"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
 
