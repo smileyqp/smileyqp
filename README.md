@@ -19,7 +19,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **smileyqp/smileyqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
