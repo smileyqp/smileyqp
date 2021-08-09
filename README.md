@@ -1,5 +1,5 @@
 ### Hi,I'm smileyqp 👋
-一只无人驾驶公司的前端前端小朋友&&致力成为优秀的前端喵，csdn:「smileyqp」
+一只无人驾驶公司的前端小朋友&&致力成为优秀的前端喵，csdn:「smileyqp」
 
 - 🔭  I’m currently working on something interesting
 - 🌱  I’m currently learning what I like
