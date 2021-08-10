@@ -33,14 +33,15 @@
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=smileyqp&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyqp)](https://github.com/azl397985856/leetcode)
 
 <!--
 
 ### Languages and Tools:
+
 <img src="https://github-readme-stats.vercel.app/api?username=smileyqp&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyqp)](https://github.com/azl397985856/leetcode)
+
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://th.bing.com/th/id/OIP.j5xeA1fJY7KKioU0J8JlmAHaEK?pid=ImgDet&rs=1"></code>
