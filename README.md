@@ -33,7 +33,7 @@
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azl397985856)](https://github.com/azl397985856/leetcode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyqp)](https://github.com/azl397985856/leetcode)
 
 <!--
 
