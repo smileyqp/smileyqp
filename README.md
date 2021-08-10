@@ -33,6 +33,8 @@
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=smileyqp&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyqp)](https://github.com/azl397985856/leetcode)
 
 <!--
