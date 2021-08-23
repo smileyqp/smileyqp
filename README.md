@@ -11,6 +11,11 @@
 |  ----  | ---- | --- | --- |
 | [点我直达](https://blog.csdn.net/qq_34273059) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/smileyqp/count.svg" />
+</p>
+
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
@@ -28,11 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/smileyqp/count.svg" />
-</p>
 
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
