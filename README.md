@@ -29,6 +29,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/smileyqp/count.svg" />
+</p>
+
 
 [![smileyqp's github stats](https://github-readme-stats.vercel.app/api?username=smileyqp&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
