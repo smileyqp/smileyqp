@@ -1,6 +1,6 @@
 ### Hi,I'm Vicky 👋
 致力成为Auto Driving行业的优秀前端喵，csdn:「smileyqp」<br/>
-我想坚持做一些自己觉得有意义的事情。不论结果。
+长大真的是一件艰难的事情呐。我想坚持做一些自己觉得有意义的事情。不论结果。
 <img align="right" alt="GIF" src="https://github.com/smileyqp/smileyqp/blob/main/3.gif" />
 
 - 🔭  I’m currently working on something interesting
