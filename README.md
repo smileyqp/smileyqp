@@ -74,3 +74,4 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/smileyqp/count.svg" />
 </p>
+![](https://raw.githubusercontent.com/smileyqp/smileyqp/main/assets/github-contribution-grid-snake.svg)
