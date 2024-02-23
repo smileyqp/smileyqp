@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/smileyqp/smileyqp/main/assets/github-contribution-grid-snake.svg)
+
 ### Hi,I'm Vicky 👋
 致力成为Auto Driving行业的优秀前端喵，csdn:「smileyqp」<br/>
 长大真的是一件艰难的事情呐。我想坚持做一些自己觉得有意义的事情。不论结果。
@@ -74,4 +76,4 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/smileyqp/count.svg" />
 </p>
-![](https://raw.githubusercontent.com/smileyqp/smileyqp/main/assets/github-contribution-grid-snake.svg)
+
