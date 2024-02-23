@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/smileyqp/smileyqp/main/assets/github-contribution-grid-snake.svg)
 
 ### Hi,I'm Vicky 👋
 致力成为Auto Driving行业的优秀前端喵，csdn:「smileyqp」<br/>
