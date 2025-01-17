@@ -22,7 +22,7 @@
 ![Uniapp](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=uniapp&logoColor=FF4800)
 - 🌐 &#160;
 ![AntdDesign](https://img.shields.io/badge/-AntdDesign-333333?style=flat&logo=AntdDesign)
-![ElementUI](https://img.shields.io/badge/-AntdDesign-333333?style=flat&logo=Element)
+![ElementUI](https://img.shields.io/badge/-Element-333333?style=flat&logo=Element)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
